@@ -1,6 +1,6 @@
 # Multiple Regression on Concrete Data
 
-![Concrete](https://images.pexels.com/photos/545008/pexels-photo-545008.jpeg)
+![Concrete](https://th.bing.com/th/id/OIP.0PAyHfpuNr-e6Xc61ZpQaAHaEK?pid=ImgDet&rs=1)
 
 ## Project Description
 
