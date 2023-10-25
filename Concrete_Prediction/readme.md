@@ -6,6 +6,18 @@
 
 This GitHub repository contains a data analysis project on multiple regression using the "Concrete Data" dataset. The dataset consists of various input features, such as cement, slag, fly ash, water, superplasticizer, coarse aggregate, fine aggregate, and age, to predict the compressive strength (csMPa) of concrete. The project aims to explore and implement various regression models to predict concrete strength.
 
+## Introduction
+This project explores the application of multiple regression techniques to predict the compressive strength of concrete based on various input features. The dataset used for this analysis includes the following columns:
+
+- `cement`: Amount of cement in the concrete mix (kg/m³)
+- `slag`: Amount of blast furnace slag in the concrete mix (kg/m³)
+- `flyash`: Amount of fly ash in the concrete mix (kg/m³)
+- `water`: Amount of water in the concrete mix (kg/m³)
+- `superplasticizer`: Amount of superplasticizer in the concrete mix (kg/m³)
+- `coarseaggregate`: Amount of coarse aggregate in the concrete mix (kg/m³)
+- `fineaggregate`: Amount of fine aggregate in the concrete mix (kg/m³)
+- `age`: Age of the concrete (days)
+
 ## Dataset
 
 The dataset used in this project can be accessed from the following link:
