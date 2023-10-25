@@ -29,7 +29,7 @@ To get started with any of the projects in this repository, follow these general
 1. Clone the repository to your local machine:
 
  
-   git clone https://github.com/hiranvjoseph/Machine-Learning-Prediction-Projects.git
+   git clone https://github.com/hiranvjoseph/Machine-Learning-Prediction-Projects-Repository/tree/main
 
 2. Navigate to the specific project folder of your choice.
 
