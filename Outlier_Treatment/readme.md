@@ -1,5 +1,7 @@
 # Outlier Treatment in Data Analysis on Car Crashes Data
 
+![Concrete](https://images.pexels.com/photos/545008/pexels-photo-545008.jpeg)
+
 ## Introduction
 This project focuses on the detection and treatment of outliers in a dataset related to car crashes. The dataset contains various columns, including:
 
