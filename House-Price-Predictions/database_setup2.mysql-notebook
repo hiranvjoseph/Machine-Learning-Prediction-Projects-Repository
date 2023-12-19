@@ -1,0 +1,281 @@
+{
+    "type": "MySQLNotebook",
+    "version": "1.0",
+    "caption": "DB Notebook",
+    "content": "\\about\nuse house;\nSELECT * from real_estate_predictions;",
+    "options": {
+        "tabSize": 4,
+        "indentSize": 4,
+        "insertSpaces": true,
+        "defaultEOL": "LF",
+        "trimAutoWhitespace": true
+    },
+    "viewState": {
+        "cursorState": [
+            {
+                "inSelectionMode": false,
+                "selectionStart": {
+                    "lineNumber": 3,
+                    "column": 39
+                },
+                "position": {
+                    "lineNumber": 3,
+                    "column": 39
+                }
+            }
+        ],
+        "viewState": {
+            "scrollLeft": 0,
+            "firstPosition": {
+                "lineNumber": 1,
+                "column": 1
+            },
+            "firstPositionDeltaTop": 0
+        },
+        "contributionsState": {
+            "editor.contrib.folding": {},
+            "editor.contrib.wordHighlighter": false
+        }
+    },
+    "contexts": [
+        {
+            "state": {
+                "start": 1,
+                "end": 1,
+                "language": "mysql",
+                "result": {
+                    "type": "text",
+                    "text": [
+                        {
+                            "type": 2,
+                            "content": "Welcome to the MySQL Shell - DB Notebook.\n\nPress Ctrl+Enter to execute the code block.\n\nExecute \\sql to switch to SQL, \\js to JavaScript and \\ts to TypeScript mode.\nExecute \\help or \\? for help;",
+                            "language": "ansi"
+                        }
+                    ]
+                },
+                "currentHeight": 120,
+                "statements": [
+                    {
+                        "delimiter": ";",
+                        "span": {
+                            "start": 0,
+                            "length": 6
+                        },
+                        "contentStart": 0,
+                        "state": 0
+                    }
+                ]
+            },
+            "data": []
+        },
+        {
+            "state": {
+                "start": 2,
+                "end": 3,
+                "language": "mysql",
+                "result": {
+                    "type": "resultIds",
+                    "list": [
+                        "47662201-e7d8-4f05-f8cd-86b6ade1c17b"
+                    ]
+                },
+                "currentHeight": 351,
+                "statements": [
+                    {
+                        "delimiter": ";",
+                        "span": {
+                            "start": 0,
+                            "length": 10
+                        },
+                        "contentStart": 0,
+                        "state": 0
+                    },
+                    {
+                        "delimiter": ";",
+                        "span": {
+                            "start": 10,
+                            "length": 39
+                        },
+                        "contentStart": 11,
+                        "state": 0
+                    }
+                ]
+            },
+            "data": [
+                {
+                    "tabId": "282948e7-2dad-457d-e1d2-c30c545a211d",
+                    "resultId": "47662201-e7d8-4f05-f8cd-86b6ade1c17b",
+                    "rows": [
+                        {
+                            "0": 1,
+                            "1": 213,
+                            "2": 3,
+                            "3": 123,
+                            "4": 31,
+                            "5": 9620.20245767658,
+                            "6": 0.5496730534560775
+                        },
+                        {
+                            "0": 2,
+                            "1": 213,
+                            "2": 3,
+                            "3": 123,
+                            "4": 31,
+                            "5": 9620.20245767658,
+                            "6": 0.5496730534560775
+                        },
+                        {
+                            "0": 3,
+                            "1": 2131,
+                            "2": 321,
+                            "3": 1231,
+                            "4": 33,
+                            "5": 81497.91095960494,
+                            "6": 0.5496730534560775
+                        },
+                        {
+                            "0": 4,
+                            "1": 212,
+                            "2": 3,
+                            "3": 323,
+                            "4": 3213,
+                            "5": -92466.59846557042,
+                            "6": 0.5496730534560775
+                        },
+                        {
+                            "0": 5,
+                            "1": 344,
+                            "2": 6,
+                            "3": 367,
+                            "4": 6876,
+                            "5": -221979.72450963463,
+                            "6": 0.5496730534560775
+                        },
+                        {
+                            "0": 6,
+                            "1": 2134,
+                            "2": 1,
+                            "3": 11,
+                            "4": 1424,
+                            "5": -47947.825173942205,
+                            "6": 0.5496730534560775
+                        },
+                        {
+                            "0": 7,
+                            "1": 2134346,
+                            "2": 1,
+                            "3": 11,
+                            "4": 1424,
+                            "5": -65754.27754997097,
+                            "6": 0.5496730534560775
+                        },
+                        {
+                            "0": 8,
+                            "1": 2134346,
+                            "2": 1,
+                            "3": 11,
+                            "4": 1424,
+                            "5": -65754.27754997097,
+                            "6": 0.5496730534560775
+                        },
+                        {
+                            "0": 9,
+                            "1": 2134346,
+                            "2": 1,
+                            "3": 11,
+                            "4": 1424,
+                            "5": -65754.27754997097,
+                            "6": 0.5496730534560775
+                        },
+                        {
+                            "0": 10,
+                            "1": 2134346,
+                            "2": 1,
+                            "3": 11,
+                            "4": 1424,
+                            "5": -65754.27754997097,
+                            "6": 0.5496730534560775
+                        },
+                        {
+                            "0": 11,
+                            "1": 23,
+                            "2": 2,
+                            "3": 323,
+                            "4": 323,
+                            "5": 11955.330849250791,
+                            "6": 0.5496730534560775
+                        },
+                        {
+                            "0": 12,
+                            "1": 23,
+                            "2": 2,
+                            "3": 323,
+                            "4": 323,
+                            "5": 11955.330849250791,
+                            "6": 0.5496730534560775
+                        }
+                    ],
+                    "columns": [
+                        {
+                            "title": "id",
+                            "field": "0",
+                            "dataType": {
+                                "type": 4
+                            }
+                        },
+                        {
+                            "title": "distance_to_mrt",
+                            "field": "1",
+                            "dataType": {
+                                "type": 9
+                            }
+                        },
+                        {
+                            "title": "stores",
+                            "field": "2",
+                            "dataType": {
+                                "type": 9
+                            }
+                        },
+                        {
+                            "title": "latitude",
+                            "field": "3",
+                            "dataType": {
+                                "type": 9
+                            }
+                        },
+                        {
+                            "title": "longitude",
+                            "field": "4",
+                            "dataType": {
+                                "type": 9
+                            }
+                        },
+                        {
+                            "title": "prediction",
+                            "field": "5",
+                            "dataType": {
+                                "type": 9
+                            }
+                        },
+                        {
+                            "title": "prediction_score",
+                            "field": "6",
+                            "dataType": {
+                                "type": 9
+                            }
+                        }
+                    ],
+                    "executionInfo": {
+                        "text": "OK, 12 records retrieved in 0s"
+                    },
+                    "totalRowCount": 12,
+                    "hasMoreRows": false,
+                    "currentPage": 0,
+                    "index": 0,
+                    "sql": "\nSELECT * from real_estate_predictions;"
+                }
+            ]
+        }
+    ]
+}
