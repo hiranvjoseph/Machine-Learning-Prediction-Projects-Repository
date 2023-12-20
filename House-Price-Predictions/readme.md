@@ -1,4 +1,5 @@
 # Real Estate Price Prediction
+![OIG](https://github.com/hiranvjoseph/Machine-Learning-Prediction-Projects-Repository/assets/32574833/389b8066-5b97-4b4c-bd23-9d68434795d6)
 
 Real Estate Price Prediction is a machine learning project that leverages Linear Regression to predict house prices based on various features. This project is valuable for investors, developers, and homeowners, providing insights for informed decision-making and investment planning.
 
@@ -31,7 +32,7 @@ The repository is organized as follows:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/real-estate-price-prediction.git
+   git clone https://github.com/hiranvjoseph/Machine-Learning-Prediction-Projects-Repository/real-estate-price-prediction.git
    cd real-estate-price-prediction
    ```
 
