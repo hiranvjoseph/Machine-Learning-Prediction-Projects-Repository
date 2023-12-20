@@ -1,4 +1,5 @@
 # Machine Learning Projects Repository
+![_30d27dd9-f4d9-4d90-8675-b5d2dca5fe12](https://github.com/hiranvjoseph/Machine-Learning-Prediction-Projects-Repository/assets/32574833/d59040d4-0598-4785-b4f2-ae8a13e32d87)
 
 Welcome to the Machine Learning Projects Repository! This repository hosts a collection of predictive modeling projects, each focusing on different aspects of data analysis and machine learning. These projects cover a wide range of topics, including linear regression, multiple regression, outlier treatment, and more.
 
