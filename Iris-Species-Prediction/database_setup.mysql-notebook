@@ -1,0 +1,461 @@
+{
+    "type": "MySQLNotebook",
+    "version": "1.0",
+    "caption": "DB Notebook",
+    "content": "\\about\nUSE iris;\nSELECT * FROM iris_predictions;",
+    "options": {
+        "tabSize": 4,
+        "indentSize": 4,
+        "insertSpaces": true,
+        "defaultEOL": "LF",
+        "trimAutoWhitespace": true
+    },
+    "viewState": {
+        "cursorState": [
+            {
+                "inSelectionMode": false,
+                "selectionStart": {
+                    "lineNumber": 2,
+                    "column": 10
+                },
+                "position": {
+                    "lineNumber": 2,
+                    "column": 10
+                }
+            }
+        ],
+        "viewState": {
+            "scrollLeft": 0,
+            "firstPosition": {
+                "lineNumber": 1,
+                "column": 1
+            },
+            "firstPositionDeltaTop": 0
+        },
+        "contributionsState": {
+            "editor.contrib.folding": {},
+            "editor.contrib.wordHighlighter": false
+        }
+    },
+    "contexts": [
+        {
+            "state": {
+                "start": 1,
+                "end": 1,
+                "language": "mysql",
+                "result": {
+                    "type": "text",
+                    "text": [
+                        {
+                            "type": 2,
+                            "content": "Welcome to the MySQL Shell - DB Notebook.\n\nPress Ctrl+Enter to execute the code block.\n\nExecute \\sql to switch to SQL, \\js to JavaScript and \\ts to TypeScript mode.\nExecute \\help or \\? for help;",
+                            "language": "ansi"
+                        }
+                    ]
+                },
+                "currentHeight": 120,
+                "statements": [
+                    {
+                        "delimiter": ";",
+                        "span": {
+                            "start": 0,
+                            "length": 6
+                        },
+                        "contentStart": 0,
+                        "state": 0
+                    }
+                ]
+            },
+            "data": []
+        },
+        {
+            "state": {
+                "start": 2,
+                "end": 3,
+                "language": "mysql",
+                "result": {
+                    "type": "resultIds",
+                    "list": [
+                        "f9d60b57-9cb8-4943-916c-1596078e3021"
+                    ]
+                },
+                "currentHeight": 352,
+                "statements": [
+                    {
+                        "delimiter": ";",
+                        "span": {
+                            "start": 0,
+                            "length": 9
+                        },
+                        "contentStart": 0,
+                        "state": 0
+                    },
+                    {
+                        "delimiter": ";",
+                        "span": {
+                            "start": 9,
+                            "length": 32
+                        },
+                        "contentStart": 10,
+                        "state": 0
+                    }
+                ]
+            },
+            "data": [
+                {
+                    "tabId": "ff32b13a-a267-4838-f0c6-c9f1b99a4550",
+                    "resultId": "f9d60b57-9cb8-4943-916c-1596078e3021",
+                    "rows": [
+                        {
+                            "0": 1,
+                            "1": 5.1,
+                            "2": 3.5,
+                            "3": 1.4,
+                            "4": 0.2,
+                            "5": "Iris-setosa",
+                            "6": 1
+                        },
+                        {
+                            "0": 2,
+                            "1": 5.1,
+                            "2": 3.5,
+                            "3": 1.4,
+                            "4": 0.2,
+                            "5": "Iris-setosa",
+                            "6": 1
+                        },
+                        {
+                            "0": 3,
+                            "1": 5.1,
+                            "2": 3.5,
+                            "3": 1.4,
+                            "4": 0.2,
+                            "5": "Iris-setosa",
+                            "6": 1
+                        },
+                        {
+                            "0": 4,
+                            "1": 5.1,
+                            "2": 3.5,
+                            "3": 1.4,
+                            "4": 0.2,
+                            "5": "Iris-setosa",
+                            "6": 1
+                        },
+                        {
+                            "0": 5,
+                            "1": 5.1,
+                            "2": 3.5,
+                            "3": 1.4,
+                            "4": 0.2,
+                            "5": "Iris-setosa",
+                            "6": 1
+                        },
+                        {
+                            "0": 6,
+                            "1": 5.1,
+                            "2": 3.5,
+                            "3": 1.4,
+                            "4": 0.2,
+                            "5": "Iris-setosa",
+                            "6": 1
+                        },
+                        {
+                            "0": 7,
+                            "1": 5.1,
+                            "2": 3.5,
+                            "3": 1.4,
+                            "4": 0.2,
+                            "5": "Iris-setosa",
+                            "6": 1
+                        },
+                        {
+                            "0": 8,
+                            "1": 5.1,
+                            "2": 3.5,
+                            "3": 1.4,
+                            "4": 0.2,
+                            "5": "Iris-setosa",
+                            "6": 1
+                        },
+                        {
+                            "0": 9,
+                            "1": 5.1,
+                            "2": 3.5,
+                            "3": 1.4,
+                            "4": 0.2,
+                            "5": "Iris-setosa",
+                            "6": 1
+                        },
+                        {
+                            "0": 10,
+                            "1": 5.1,
+                            "2": 3.5,
+                            "3": 1.4,
+                            "4": 2.2,
+                            "5": "Iris-setosa",
+                            "6": 1
+                        },
+                        {
+                            "0": 11,
+                            "1": 5.1,
+                            "2": 3.5,
+                            "3": 14.4,
+                            "4": 2.2,
+                            "5": "Iris-virginica",
+                            "6": 1
+                        },
+                        {
+                            "0": 12,
+                            "1": 5.1,
+                            "2": 3.5,
+                            "3": 1.4,
+                            "4": 0.2,
+                            "5": "Iris-setosa",
+                            "6": 1
+                        },
+                        {
+                            "0": 13,
+                            "1": 5.1,
+                            "2": 3.5,
+                            "3": 1.4,
+                            "4": 0.2,
+                            "5": "Iris-setosa",
+                            "6": 1
+                        },
+                        {
+                            "0": 14,
+                            "1": 5.1,
+                            "2": 3.5,
+                            "3": 1.4,
+                            "4": 0.2,
+                            "5": "Iris-setosa",
+                            "6": 1
+                        },
+                        {
+                            "0": 15,
+                            "1": 5.1,
+                            "2": 3.5,
+                            "3": 1.4,
+                            "4": 0.2,
+                            "5": "Iris-setosa",
+                            "6": 1
+                        },
+                        {
+                            "0": 16,
+                            "1": 5.1,
+                            "2": 3.5,
+                            "3": 1.4,
+                            "4": 3.2,
+                            "5": "Iris-setosa",
+                            "6": 1
+                        },
+                        {
+                            "0": 17,
+                            "1": 5.1,
+                            "2": 3.5,
+                            "3": 17.4,
+                            "4": 3.2,
+                            "5": "Iris-virginica",
+                            "6": 1
+                        },
+                        {
+                            "0": 18,
+                            "1": 5.1,
+                            "2": 3.5,
+                            "3": 17.4,
+                            "4": 3.2,
+                            "5": "Iris-virginica",
+                            "6": 1
+                        },
+                        {
+                            "0": 19,
+                            "1": 5.1,
+                            "2": 3.5,
+                            "3": 2.4,
+                            "4": 3.2,
+                            "5": "Iris-versicolor",
+                            "6": 1
+                        },
+                        {
+                            "0": 20,
+                            "1": 5.1,
+                            "2": 3.5,
+                            "3": 1.4,
+                            "4": 0.2,
+                            "5": "Iris-setosa",
+                            "6": 1
+                        },
+                        {
+                            "0": 21,
+                            "1": 5.1,
+                            "2": 3.5,
+                            "3": 1.4,
+                            "4": 0.2,
+                            "5": "Iris-setosa",
+                            "6": 1
+                        },
+                        {
+                            "0": 22,
+                            "1": 5.1,
+                            "2": 3.5,
+                            "3": 1.4,
+                            "4": 0.2,
+                            "5": "Iris-setosa",
+                            "6": 1
+                        },
+                        {
+                            "0": 23,
+                            "1": 5.1,
+                            "2": 3.5,
+                            "3": 1.4,
+                            "4": 0.2,
+                            "5": "Iris-setosa",
+                            "6": 1
+                        },
+                        {
+                            "0": 24,
+                            "1": 5.1,
+                            "2": 3.5,
+                            "3": 1.4,
+                            "4": 0.2,
+                            "5": "Iris-setosa",
+                            "6": 1
+                        },
+                        {
+                            "0": 25,
+                            "1": 5.1,
+                            "2": 3.5,
+                            "3": 1.4,
+                            "4": 0.2,
+                            "5": "Iris-setosa",
+                            "6": 1
+                        },
+                        {
+                            "0": 26,
+                            "1": 5.1,
+                            "2": 3.5,
+                            "3": 1.4,
+                            "4": 0.2,
+                            "5": "Iris-setosa",
+                            "6": 1
+                        },
+                        {
+                            "0": 27,
+                            "1": 5.1,
+                            "2": 3.5,
+                            "3": 1.4,
+                            "4": 0.2,
+                            "5": "Iris-setosa",
+                            "6": 1
+                        },
+                        {
+                            "0": 28,
+                            "1": 5.1,
+                            "2": 3.5,
+                            "3": 1.4,
+                            "4": 0.2,
+                            "5": "Iris-setosa",
+                            "6": 1
+                        },
+                        {
+                            "0": 29,
+                            "1": 5.1,
+                            "2": 3.5,
+                            "3": 1.4,
+                            "4": 0.2,
+                            "5": "Iris-setosa",
+                            "6": 1
+                        },
+                        {
+                            "0": 30,
+                            "1": 5.1,
+                            "2": 3.5,
+                            "3": 7.4,
+                            "4": 0.2,
+                            "5": "Iris-virginica",
+                            "6": 1
+                        },
+                        {
+                            "0": 31,
+                            "1": 5.1,
+                            "2": 3.5,
+                            "3": 1.4,
+                            "4": 0.2,
+                            "5": "Iris-setosa",
+                            "6": 1
+                        },
+                        {
+                            "0": 32,
+                            "1": 5.1,
+                            "2": 3.5,
+                            "3": 1.4,
+                            "4": 5.2,
+                            "5": "Iris-versicolor",
+                            "6": 1
+                        }
+                    ],
+                    "columns": [
+                        {
+                            "title": "id",
+                            "field": "0",
+                            "dataType": {
+                                "type": 4
+                            }
+                        },
+                        {
+                            "title": "sepal_length",
+                            "field": "1",
+                            "dataType": {
+                                "type": 9
+                            }
+                        },
+                        {
+                            "title": "sepal_width",
+                            "field": "2",
+                            "dataType": {
+                                "type": 9
+                            }
+                        },
+                        {
+                            "title": "petal_length",
+                            "field": "3",
+                            "dataType": {
+                                "type": 9
+                            }
+                        },
+                        {
+                            "title": "petal_width",
+                            "field": "4",
+                            "dataType": {
+                                "type": 9
+                            }
+                        },
+                        {
+                            "title": "predicted_species",
+                            "field": "5",
+                            "dataType": {
+                                "type": 17
+                            }
+                        },
+                        {
+                            "title": "prediction_score",
+                            "field": "6",
+                            "dataType": {
+                                "type": 9
+                            }
+                        }
+                    ],
+                    "executionInfo": {
+                        "text": "OK, 32 records retrieved in 0s"
+                    },
+                    "totalRowCount": 32,
+                    "hasMoreRows": false,
+                    "currentPage": 0,
+                    "index": 0,
+                    "sql": "\nSELECT * FROM iris_predictions;"
+                }
+            ]
+        }
+    ]
+}
